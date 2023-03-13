@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/royatikatel/comp2156/issues"
   },
-  "homepage": "https://github.com/royatikatel/comp2156#readme"
+  "homepage": "https://github.com/royatikatel/comp2156#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5",
+    "travis": "0.1.1",
+    "yarn": "1.13.0"
+  }
 }
